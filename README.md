@@ -49,3 +49,12 @@ public class person {
         + ", Umur: " + riko.getUmur());
     }
 }
+
+#ALASAN MENGGUNAKAN SETTER DAN GETTER
+1.gunanya untuk enkapsulasi alias agar data atribut tidak dapat dipakai selain dari class itu sendiri
+2.kontrol penuh pada data yang memungkinkan kita dapat dengan mudah menambah logika atau atribut tambahan
+3.fleksibel (saya gatau kenapa fleksibel,tpi kata gugel gitu)
+4.mencegah berubahnya atribut dari luar class
+
+#KESIMPULANNYA
+dengan setter dan getter membuat konsep dari OOP itu sendiri berjalan dengan baik,juga memberikan kontrol lebih terhadap bagaimana atribut diakses dan dimodifikasi. Ini sangat penting dalam menjaga integritas data, memungkinkan validasi, serta memastikan data dikelola dengan cara yang benar sesuai
